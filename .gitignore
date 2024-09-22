@@ -1,4 +1,5 @@
 malaria/
+!malaria/malariaClassification.ipynb
 __pycache__/
 *.pyc
 *.pyo
