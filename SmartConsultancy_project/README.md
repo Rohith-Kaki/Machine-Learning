@@ -1,5 +1,5 @@
 # **Smart Consultancy Machine learning tasks**
-![Alt Text](SmartConsultancy_project/poster.pdf)
+![Alt Text](https://github.com/Rohith-Kaki/Machine-Learning/blob/c8bfdc24d0c034d85bb87a47a340680a2bfa4ad7/SmartConsultancy_project/poster.pdf)
 
 ## **INTRODUCTION**
 This research explores various Machine Learning (ML) techniques applied to real-world data analysis and prediction problems. The study focuses on four essential ML functionalities, each solving a practical problem scenario relevant to smart consultancy.
@@ -11,7 +11,7 @@ This research explores various Machine Learning (ML) techniques applied to real-
 - **Clustering:** Grouping similar data points using Cluster Analysis.
 - **Dimensionality Reduction:** Reducing the number of input features (variables) to improve efficiency.
 
-### **2. PREDICTING FUEL CONSUMPTION**
+### **2. FLOWCHART FOR FUEL CONSUMPTION PREDICTION**
 - Uses **Regression Analysis** to estimate vehicle fuel efficiency based on vehicle specifications.
 - Helps optimize fuel usage and cost.
 
@@ -27,11 +27,10 @@ This research explores various Machine Learning (ML) techniques applied to real-
 - **Mean Absolute Error (MAE):** 85.77
 - **R-Squared Score:** 0.867
 
-## **TEAM MEMBERS**
 ### **Facilitator:**
 - Dr. Amit Swamy
 
-### **Researchers:**
+### **Team:**
 - Rohith (23WU0102103)
 - Keerthan (23WU0102232)
 - Jatin (23WU0102116)
