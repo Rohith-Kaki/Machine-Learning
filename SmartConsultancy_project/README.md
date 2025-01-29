@@ -1,5 +1,6 @@
 # **Smart Consultancy Machine learning tasks**
-![Alt Text](https://github.com/Rohith-Kaki/Machine-Learning/blob/c8bfdc24d0c034d85bb87a47a340680a2bfa4ad7/SmartConsultancy_project/poster.pdf)
+![poster.pdf](https://github.com/user-attachments/files/18583300/poster.pdf)
+
 
 ## **INTRODUCTION**
 This research explores various Machine Learning (ML) techniques applied to real-world data analysis and prediction problems. The study focuses on four essential ML functionalities, each solving a practical problem scenario relevant to smart consultancy.
@@ -7,7 +8,8 @@ This research explores various Machine Learning (ML) techniques applied to real-
 ## **TASKS & MACHINE LEARNING APPLICATIONS**
 
 ### **1. CLUSTERING & RANKING**
-- **Ranking:** Extracting scores from datasets using statistical algorithms.
+- **Ranking:** Extracting scores from datasets using statistical algorithms.[poster.pdf](https://github.com/user-attachments/files/18583300/poster.pdf)
+
 - **Clustering:** Grouping similar data points using Cluster Analysis.
 - **Dimensionality Reduction:** Reducing the number of input features (variables) to improve efficiency.
 
