@@ -1,5 +1,7 @@
 # **Smart Consultancy Machine learning tasks**
-![poster.pdf](https://github.com/user-attachments/files/18583300/poster.pdf)
+![poster.pdf](https://github.com/Rohith-Kaki/Machine-Learning/blob/main/SmartConsultancy_project/poseter.png)
+
+
 
 
 ## **INTRODUCTION**
@@ -8,7 +10,7 @@ This research explores various Machine Learning (ML) techniques applied to real-
 ## **TASKS & MACHINE LEARNING APPLICATIONS**
 
 ### **1. CLUSTERING & RANKING**
-- **Ranking:** Extracting scores from datasets using statistical algorithms.[poster.pdf](https://github.com/user-attachments/files/18583300/poster.pdf)
+- **Ranking:** Extracting scores from datasets using statistical algorithms.
 
 - **Clustering:** Grouping similar data points using Cluster Analysis.
 - **Dimensionality Reduction:** Reducing the number of input features (variables) to improve efficiency.
